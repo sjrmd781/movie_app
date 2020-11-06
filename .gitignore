@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/css
+/script
+/영화앱 준비
 /.pnp
 .pnp.js
 
